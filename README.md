@@ -8,11 +8,11 @@ https://cdn.dribbble.com/users/1626229/screenshots/7199947/media/4be7ed3e9aaa171
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winwinmaw4&label=Profile%20views&color=0e75b6&style=flat" alt="winwinmaw4" /> </p>
 
-- 🌱 I’m currently learning **Vue, Laravel**
+- 🌱 I’m currently learning **React, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WinWinMaw4?tab=repositories](https://github.com/WinWinMaw4?tab=repositories)
 
-- 💬 Ask me about **Web Design, React, Laravel**
+- 💬 Ask me about **Web Design, Web Developer, React, Laravel**
 
 - 📫 How to reach me **mawinwinmaw4@gmail.com**
 
