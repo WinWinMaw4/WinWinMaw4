@@ -14,7 +14,7 @@ https://cdn.dribbble.com/users/1626229/screenshots/7199947/media/4be7ed3e9aaa171
 
 - 💬 Ask me about **Web Design, Web Developer, React, Laravel**
 
-- 📫 How to reach me **mawinwinmaw4@gmail.com**, **winwinmawaxletechmm.com**
+- 📫 How to reach me **mawinwinmaw4@gmail.com** **winwinmaw@axletechmm.com**
 
 - ⚡ Fun fact **I think i'm a girl who can be a little naughty😜**
 
