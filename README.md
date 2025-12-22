@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I am a seasoned professional from Myanmar with a 4-year evolution in the tech industry. My journey began in **UI/UX Design**, transitioned into **Full-Stack Development**, and has now culminated in **Project Leadership**. 
+I am a seasoned professional from Myanmar with a 5-year evolution in the tech industry. My journey began in **UI/UX Design**, transitioned into **Full-Stack Development**, and has now culminated in **Project Leadership**. 
 
 As a **Project Lead Coordinator**, I bridge the gap between technical execution and business strategy, ensuring high-quality delivery while mentoring development teams.
 
